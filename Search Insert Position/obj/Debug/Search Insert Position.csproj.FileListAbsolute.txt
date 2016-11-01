@@ -1,0 +1,6 @@
+D:\C&C++ samples\Search Insert Position\Search Insert Position\bin\Debug\Search Insert Position.exe.config
+D:\C&C++ samples\Search Insert Position\Search Insert Position\bin\Debug\Search Insert Position.exe
+D:\C&C++ samples\Search Insert Position\Search Insert Position\bin\Debug\Search Insert Position.pdb
+D:\C&C++ samples\Search Insert Position\Search Insert Position\obj\Debug\Search Insert Position.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Search Insert Position\Search Insert Position\obj\Debug\Search Insert Position.exe
+D:\C&C++ samples\Search Insert Position\Search Insert Position\obj\Debug\Search Insert Position.pdb
